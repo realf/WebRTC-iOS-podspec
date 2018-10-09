@@ -5,6 +5,7 @@ Pod::Spec.new do |s|
     s.homepage          = 'https://webrtc.org/'
 
     s.author            = { 'Name' => 'sdunets@cogniance.com' }
+    s.license           = { :type => 'BSD-3' }
 
     s.platform          = :ios
     s.source            = { :http => 'https://gitlab.tools.anonyome.com/bshepard/test-lfs/raw/webrtc/WebRTC.zip' }
